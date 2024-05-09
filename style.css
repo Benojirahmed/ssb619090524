@@ -1,0 +1,53 @@
+.header{
+    height: 100px;
+    background-color: red;
+}
+.container{
+    overflow: hidden; 
+}
+.blog{
+    height: 150px;
+    width: 70%;
+    float: left;
+    display: inline-block;
+    background-color: black;
+}
+.contact{
+    height: 150px;
+    float: right;
+    width: 30%;
+    background-color: green;
+}
+.wrapper{
+overflow: hidden;
+}
+.box{
+    float: left;
+    width: 33.33%;
+    height: 100px; 
+}
+.item1{
+    background-color: red;
+    
+}
+.item2{
+    background-color: gray;
+}
+.item3{
+    background-color: yellowgreen;
+}
+
+.footer{
+    height: 100px;
+    background-color: yellow;
+}
+.practise{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    padding: 25px 20px 15px 10px;
+}
+.ball{
+    width: 50%;
+    height: 300px;
+}
